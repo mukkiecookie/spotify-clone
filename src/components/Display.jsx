@@ -14,10 +14,10 @@ const Display = () => {
 
   useEffect(() => {
     if(isAlbum){
-      displayRef.current.style.background = `linear-gradient(${bgColor}, #121212)`
+      displayRef.current.style.background = `#ebe9d8`
     }
     else{
-      displayRef.current.style.background = `#ecead9`
+      displayRef.current.style.background = `#ebe9d8`
     }
   })
 

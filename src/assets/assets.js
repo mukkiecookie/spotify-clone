@@ -180,7 +180,7 @@ export const songsData = [
     },
     {
         id:7,
-        name: "Kora Kagaz Tha Yeh Man Mera",
+        name: "Kora Kagaz",
         image: img12,
         file:song8,
         desc:"Lata Mangeshkar, Kishore Kumar",
